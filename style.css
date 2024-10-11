@@ -1,0 +1,62 @@
+*{
+    /* background-color: black; */
+    color: white;
+}
+.Navigation{
+    background-color: grey;
+    width: 100 vw;
+    height: 30px;
+    margin-top: -8px;
+    display: flex;
+    justify-content: center;
+    margin-left: -3px;
+}
+
+.Navigation a{
+    background-color: darkgrey;
+    border: 2px solid black;
+    color: black;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.Main{
+    background-color: black;
+    margin: -1px;
+}
+
+.Main h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: -1px;
+    margin-left: -1px;
+    padding-top: 15px;
+}
+
+.dabba{
+    background-color: grey;;
+    width: 90vw;
+    text-align: center;
+    height: 500px;
+    padding-top: 10px;
+
+}
+
+#guessField{
+    color: black;
+}
+
+.guessSubmit{
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+.Guess{
+    font-size: 50px;
+}
+
